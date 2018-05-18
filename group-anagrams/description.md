@@ -33,7 +33,7 @@ Read the words from _input.txt_.
 
 Write the groups of anagrams to _output.txt_.
 
-## Run the problem
+## Run the program
 
 In the folder run the command:
 
