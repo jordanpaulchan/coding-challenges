@@ -1,4 +1,4 @@
-# Trie
+# Autocomplete
 
 We're going to make our own autocomplete application! The application must perform two types of operations:
 
