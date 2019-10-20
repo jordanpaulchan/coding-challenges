@@ -24,7 +24,7 @@ def validate_parenthesis(input):
     return ''.join(ans)
 
 
-print(validate_parenthesis('()'))
+print(validate_parenthesis('()')) 
 print(validate_parenthesis('())())'))
 print(validate_parenthesis('())))'))
 print(validate_parenthesis('().(()'))
